@@ -1,0 +1,15 @@
+C:\Sources\NameCalculator\NameCalculatorTests\obj\Debug\NameCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\NameCalculatorTests.dll
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\NameCalculatorTests.pdb
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\NameCalculator.exe
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\NameCalculator.pdb
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Sources\NameCalculator\NameCalculatorTests\obj\Debug\NameCalculatorTests.dll
+C:\Sources\NameCalculator\NameCalculatorTests\obj\Debug\NameCalculatorTests.pdb
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\FluentAssertions.Core.dll
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\FluentAssertions.dll
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\FluentAssertions.pdb
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\FluentAssertions.xml
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Sources\NameCalculator\NameCalculatorTests\bin\Debug\FluentAssertions.Core.xml

@@ -1,0 +1,7 @@
+c:\users\david\documents\visual studio 2013\Projects\NameCalculator\NameCalculator\bin\Debug\NameCalculator.exe.config
+C:\Sources\NameCalculator\NameCalculator\bin\Debug\NameCalculator.exe.config
+C:\Sources\NameCalculator\NameCalculator\bin\Debug\NameCalculator.exe
+C:\Sources\NameCalculator\NameCalculator\bin\Debug\NameCalculator.pdb
+C:\Sources\NameCalculator\NameCalculator\obj\Debug\NameCalculator.exe
+C:\Sources\NameCalculator\NameCalculator\obj\Debug\NameCalculator.pdb
+C:\Sources\NameCalculator\NameCalculator\obj\Debug\NameCalculator.csprojResolveAssemblyReference.cache
